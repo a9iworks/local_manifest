@@ -11,5 +11,6 @@
         <project path="vendor/xiaomi/sm6250-common" name="ArrowOS-Devices/android_vendor_xiaomi_sm6250-common" remote="github" revision="arrow-11.0" />
         <project path="kernel/xiaomi/sm6250" name="TheXPerienceProject/android_kernel_xiaomi_sm6250" remote="github" revision="xpe-15.0-inline" />
         <project path="hardware/xiaomi" name="LineageOS/android_hardware_xiaomi" remote="github" revision="lineage-18.1" />
+        <project path="vendor/sakura-priv" name="Sakura-Devices/vendor_sakura-priv" remote="private" revision="11" />
 
 </manifest>
